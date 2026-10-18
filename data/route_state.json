@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "domains": {},
+  "routes": {
+    "direct": [],
+    "vps": []
+  },
+  "events": [
+    {
+      "id": "97bda10cc161",
+      "at": "2026-10-16T15:19:40+00:00",
+      "kind": "startup",
+      "message": "Browser proxy listening on 127.0.0.1:8888.",
+      "host": null,
+      "route": null,
+      "details": {}
+    }
+  ]
+}
